@@ -7,13 +7,11 @@
 * **mv** - think 'move:' moves a file or directory to a new location. This also makes it a convenient way to rename files and folders.
 * **rm** - think 'remove:' deletes the file(s)/folder(s) specified.
 
-
-
 ##Git Gommands
 
 * Use **git --version** to find out if Git is installed
 * **git config** - allows you to make configuration changes to Git. With the --global flag, makes these changes available across your entire system.
-* **git init** git init [project_name] - initializes a new repository. If project_name is provided, it creates a new project directory with that name. If not, it initializes a repository in the current directory.
+* **git init** git init [projectName] - initializes a new repository. If projectName is provided, it creates a new project directory with that name. If not, it initializes a repository in the current directory.
 * **git add** - adds files to the repository so that Git knows to track their changes.
 * **git commit** - commits all added files to the repository as a change. With the -a flag, commits all changes to all tracked files. With the -m flag, allows you to specify a commit message directly on the command line instead of in your default editor.
 * **git status** - show the current status of the git repository, including if there are ay uncommitted changes and whether or not any of our changes have been put in the staging area.
@@ -33,3 +31,5 @@
 ** git remote add nameremote url of clone
 * **git push** - push your latest changes to a remote repository.
 * **git pull** - pull the latest changes from a remote repository to your repository.
+* **origin** - the name of the first clone.
+8
