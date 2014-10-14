@@ -19,6 +19,7 @@
 * **git checkout** - "check out" a different version of the code from the one you're currently looking at
 * **git diff** - create a "diff" view to demonstrate what has changed between two different versions of your repository.
 * **git branch branchname** create a new branch named branchname.
+**When switching branches you switch repositories.
 * **git checkout branchname** - switch to the branch named branchname.
 * **git checkout -b branchname** - create a new branch named branchname and switch to that branch.
 * **git branch** - list all branches in the current repository and indicate which branch you're currently in.
@@ -32,4 +33,5 @@
 * **git push** - push your latest changes to a remote repository.
 * **git pull** - pull the latest changes from a remote repository to your repository.
 * **origin** - the name of the first clone.
-8
+* **HEAD** what branch you are on and what commit
+* **git merge --abort** Aborts merges
