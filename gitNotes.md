@@ -1,3 +1,7 @@
+##Questions
+* How/why does github exist for free?
+* Are we going to cover more sass stuff?
+
 ##Terminal Commands
 
 * **cd** - think 'change directory:' change the current working directory. Remember that ~ is a special symbol that always represents your "home" directory.
